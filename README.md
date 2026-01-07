@@ -1,5 +1,3 @@
-![Photo of Starfleet Security Log in ASCII text.](https://patorjk.com/software/taag/#p=display&f=Slant&t=Starfleet%20Security%20Log&x=none)
-
 ## Starfleet Security Log  **is an open-source cybersecurity research repository dedicated to documenting and analyzing threats, vulnerabilities, and emerging risks affecting aerospace, satellite, and space-based systems.**
 
 As humanity’s reliance on orbital infrastructure grows, supporting GPS, communications, aviation, defense, weather monitoring, and global connectivity; the attack surface extends far beyond Earth. This project exists to track, organize, and contextualize cybersecurity developments impacting the final frontier.
