@@ -19,4 +19,5 @@ Contributions are welcome in the form of:
 - Relevant articles or research
 - Improved summaries or impact analysis
 - Additional defensive insights
-** All contributions should align with the project’s ethical and educational mission. **
+
+**All contributions should align with the project’s ethical and educational mission.**
