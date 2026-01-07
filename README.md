@@ -12,7 +12,7 @@ This repository serves as a living security log that curates:
 - Firmware and software dependencies
 - Space-related supply chains
   
-Observations on emerging threat patterns, nation-state activity, and systemic risk.
+Observations on emerging threat patterns, nation-state activity, and systemic risk. <br>
 **Each entry focuses on understanding the security implications, not exploiting them.**
 
 ## Contributions
