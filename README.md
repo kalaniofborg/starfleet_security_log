@@ -1,9 +1,4 @@
-   _____ __             ______          __     _____                      _ __           __               
-  / ___// /_____ ______/ __/ /__  ___  / /_   / ___/___  _______  _______(_) /___  __   / /   ____  ____ _
-  \__ \/ __/ __ `/ ___/ /_/ / _ \/ _ \/ __/   \__ \/ _ \/ ___/ / / / ___/ / __/ / / /  / /   / __ \/ __ `/
- ___/ / /_/ /_/ / /  / __/ /  __/  __/ /_    ___/ /  __/ /__/ /_/ / /  / / /_/ /_/ /  / /___/ /_/ / /_/ / 
-/____/\__/\__,_/_/  /_/ /_/\___/\___/\__/   /____/\___/\___/\__,_/_/  /_/\__/\__, /  /_____/\____/\__, /  
-                                                                            /____/               /____/   
+<img width="481" height="2233" alt="image" src="https://patorjk.com/software/taag/#p=display&f=Slant&t=Starfleet%20Security%20Log&x=none" />
 
 ## Starfleet Security Log  **is an open-source cybersecurity research repository dedicated to documenting and analyzing threats, vulnerabilities, and emerging risks affecting aerospace, satellite, and space-based systems.**
 
