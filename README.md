@@ -11,8 +11,9 @@ This repository serves as a living security log that curates:
 - Communication links
 - Firmware and software dependencies
 - Space-related supply chains
+  
 Observations on emerging threat patterns, nation-state activity, and systemic risk.
-Each entry focuses on understanding the security implications, not exploiting them.
+**Each entry focuses on understanding the security implications, not exploiting them.**
 
 ## Contributions
 Contributions are welcome in the form of:
