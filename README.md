@@ -13,3 +13,10 @@ This repository serves as a living security log that curates:
 - Space-related supply chains
 Observations on emerging threat patterns, nation-state activity, and systemic risk.
 Each entry focuses on understanding the security implications, not exploiting them.
+
+## Contributions
+Contributions are welcome in the form of:
+- Relevant articles or research
+- Improved summaries or impact analysis
+- Additional defensive insights
+** All contributions should align with the project’s ethical and educational mission. **
