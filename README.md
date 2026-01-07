@@ -1,4 +1,4 @@
-<img width="481" height="2233" alt="image" src="https://patorjk.com/software/taag/#p=display&f=Slant&t=Starfleet%20Security%20Log&x=none" />
+![Photo of Starfleet Security Log in ASCII text.](https://patorjk.com/software/taag/#p=display&f=Slant&t=Starfleet%20Security%20Log&x=none)
 
 ## Starfleet Security Log  **is an open-source cybersecurity research repository dedicated to documenting and analyzing threats, vulnerabilities, and emerging risks affecting aerospace, satellite, and space-based systems.**
 
