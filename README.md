@@ -495,3 +495,73 @@ https://spacenews.com/author/hayley-blyth/
 
 SpaceX Faces More Pushback Over Plans to Launch 15K Cellular Starlink Satellites 
 https://www.pcmag.com/news/spacex-faces-more-pushback-over-plans-to-launch-15k-cellular-starlink-satellites 
+
+# Jan 7, 2026
+AI for Rebuilding the Military: Inside U.S. Global's WAR ETF Strategy | The WealthAdvisor <br>
+https://www.thewealthadvisor.com/article/ai-rebuilding-military-inside-us-globals-war-etf-strategy 
+	
+AI in Cybersecurity Market to Hit $154.8 Bn by 2032 | CAGR 23.6% Growth Outlook <br>
+https://www.openpr.com/news/4338765/ai-in-cybersecurity-market-to-hit-154-8-bn-by-2032-cagr-23-6 
+
+Test equipment services firm Electro Rent achieves CMMC 2.0 Level 2 certification, supporting defense cybersecurity <br>
+https://electronics360.globalspec.com/article/23162/test-equipment-services-firm-electro-rent-achieves-cmmc-2-0-level-2-certification-supporting-defense-cybersecurity
+
+Samsung security chip powered by Thales wins CES 2026 Cybersecurity Award <br>
+https://defensehere.com/en/samsung-security-chip-powered-by-thales-wins-ces-2026-cybersecurity-award/ 
+
+# Jan 8, 2026
+BlackSky Satellite SPAC Suit Settles In Del. For $7.5M <br>
+https://www.law360.com/articles/2427679/blacksky-satellite-spac-suit-settles-in-del-for-7-5m 
+
+ISO 9001 in 2026: What’s Changing—and How AS9100 (IA9100), IATF 16949, NIST & CMMC Fit Together <br>
+https://www.qualitymag.com/articles/99324-iso-9001-in-2026-whats-changingand-how-as9100-ia9100-iatf-16949-nist-and-cmmc-fit-together 
+
+Cybersecurity Shifts from IT Risk to Systemic Exposure <br>
+https://mexicobusiness.news/cybersecurity/news/cybersecurity-shifts-it-risk-systemic-exposure 
+
+”The majority of IT professionals show openness to Cyber Immunity” <br>
+https://www.itnewsafrica.com/2026/01/the-majority-of-it-professionals-show-openness-to-cyber-immunity/ 
+
+Greater Oklahoma City Chamber Unveils 2026 Business and Economic Development Legislative Agenda <br>
+https://www.velocityokc.com/blog/policy/greater-oklahoma-city-chamber-unveils-2026-business-and-economic-development-legislative-agenda/?back=super_blog 
+
+The Cleared Recruiting Playoffs Are Here: Which Defense Contractors Are Winning the Talent War <br>
+https://news.clearancejobs.com/2026/01/08/the-cleared-recruiting-playoffs-are-here-which-defense-contractors-are-winning-the-talent-war/
+
+Gryphon Investors Backs Growth Recap of Cybersecurity Firm Fortreum <br>
+https://www.themiddlemarket.com/latest-news/gryphon-investors-backs-growth-recap-of-cybersecurity-firm-fortreum 
+
+S&P 500 Pulls Back From Record Peak as Defense Shares Surge <br>
+https://www.tradealgo.com/news/s-p-500-pulls-back-from-record-peak-as-defense-shares-surge 
+
+# Jan 9, 2026
+Satellite Co. Pays $175K To End FCC's Team Telecom Case <br>
+https://www.law360.com/articles/2428057/satellite-co-pays-175k-to-end-fcc-s-team-telecom-case 
+
+Leonardo, Italy's leading technology voice in the aerospace and defence sector <br>
+https://www.atalayar.com/en/articulo/new-technologies-innovation/leonardo-italys-leading-technology-voice-in-the-aerospace-and-defence-sector/20260109190000222200.html 
+
+Medical technologies in defence and aerospace: Key themes and emerging questions in regulation <br>
+https://cms-lawnow.com/en/ealerts/2026/01/medical-technologies-in-defence-and-aerospace-key-themes-and-emerging-questions-in-regulation 
+
+FCC Updates 'Covered List' To Remove Some Drones <br>
+https://www.law360.com/cybersecurity-privacy/articles/2427707/fcc-updates-covered-list-to-remove-some-drones?about=cybersecurity-privacy 
+
+ETFs to Consider Amid Geopolitical Woes and Higher US Military Budget <br>
+https://www.theglobeandmail.com/investing/markets/stocks/NOC/pressreleases/36971836/etfs-to-consider-amid-geopolitical-woes-and-higher-us-military-budget/ 
+
+ParaZero Technologies (NASDAQ: PRZO) Demonstrates 100% Interception Success of DefendAir System Against Advanced Hostile Drones <br>
+https://www.theglobeandmail.com/investing/markets/stocks/PRZO-Q/pressreleases/36951667/parazero-technologies-nasdaq-przo-demonstrates-100-interception-success-of-defendair-system-against-advanced-hostile-drones/ 
+
+ABQ launches ambitious plan to attract global businesses to Mesa del Sol <br>
+https://citydesk.org/2026/01/08/abq-launches-ambitious-plan-to-attract-global-businesses-to-mesa-del-sol/ 
+
+Artificial Intelligence (AI) in Security Market is expected to reach USD 54.2 billion by 2031 | Major Companies - Palo Alto Networks Inc., Trellix, Darktrace, Cyclance Inc. <br>
+https://www.openpr.com/news/4341702/artificial-intelligence-ai-in-security-market-is-expected 
+
+Proactive Security Market Trends 2023-2032 | Future Growth Insights <br>
+https://www.openpr.com/news/4342514/proactive-security-market-trends-2023-2032-future-growth 
+
+Operational Technology Security Market Poised for 19.5% CAGR Through 2033 Amid Rising Industrial Cyber Risks | Top Companies are Siemens, Palo Alto Networks, Inc., Zscaler, Inc <br>
+https://www.openpr.com/news/4342138/operational-technology-security-market-poised-for-19-5-cagr 
+
