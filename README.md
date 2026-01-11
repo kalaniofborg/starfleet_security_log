@@ -565,3 +565,7 @@ https://www.openpr.com/news/4342514/proactive-security-market-trends-2023-2032-f
 Operational Technology Security Market Poised for 19.5% CAGR Through 2033 Amid Rising Industrial Cyber Risks | Top Companies are Siemens, Palo Alto Networks, Inc., Zscaler, Inc <br>
 https://www.openpr.com/news/4342138/operational-technology-security-market-poised-for-19-5-cagr 
 
+# Jan 10, 2026
+FCC approves SpaceX plan to deploy an additional 7,500 Starlink satellites <br>
+https://m.economictimes.com/tech/technology/fcc-approves-spacex-plan-to-deploy-an-additional-7500-starlink-satellites/amp_articleshow/126446483.cms
+
