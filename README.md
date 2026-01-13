@@ -569,3 +569,22 @@ https://www.openpr.com/news/4342138/operational-technology-security-market-poise
 FCC approves SpaceX plan to deploy an additional 7,500 Starlink satellites <br>
 https://m.economictimes.com/tech/technology/fcc-approves-spacex-plan-to-deploy-an-additional-7500-starlink-satellites/amp_articleshow/126446483.cms
 
+# Jan 11, 2026 
+Malaysia: Selangor Aerospace Soars with Advanced Manufacturing <br>
+https://opengovasia.com/malaysia-selangor-aerospace-soars-with-advanced-manufacturing/?c=us 
+
+# Jan 12, 2026 
+WISeKey, together with its Subsidiaries, WISeSat and SEALSQ, to Partner with Kaynes Technology’s Satellite Subsidiary KSTPL, to Manufacture Post-Quantum Secure WISeSats Satellites in India and <br>
+https://markets.businessinsider.com/news/stocks/wisekey-together-with-its-subsidiaries-wisesat-and-sealsq-to-partner-with-kaynes-technology-s-satellite-subsidiary-kstpl-to-manufacture-post-quantum-secure-wisesats-satellites-in-india-and-1035701574 
+
+Kepler launches first optical relay satellites <br>
+https://smartmaritimenetwork.com/2026/01/12/kepler-launches-first-optical-relay-satellites/ 
+
+Satellite Ground Station Market Size and Outlook to 2032 From US$ 65.6 Billion to US$ 178.9 Billion <br>
+https://www.taiwannews.com.tw/news/6280738 
+
+As SpaceX Works Toward 50K Starlink Satellites, China Eyes Deploying 200K <br>
+https://www.pcmag.com/news/as-spacex-works-toward-50k-starlink-satellites-china-eyes-deploying-200k 
+
+As SpaceX Works Toward 50K Starlink Satellites, China Eyes Deploying 200K <br>
+https://www.pcmag.com/news/as-spacex-works-toward-50k-starlink-satellites-china-eyes-deploying-200k 
