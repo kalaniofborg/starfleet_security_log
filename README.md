@@ -23,6 +23,329 @@ Contributions are welcome in the form of:
 
 **All contributions should align with the project’s ethical and educational mission.**  
 
+# Jan 23, 2026 
+Jeff Bezos enters satellite broadband race <br>
+https://dig.watch/updates/jeff-bezos-enters-satellite-broadband-race 
+
+TeraWave satellites looks to challenge SpaceX <br>
+https://www.tahawultech.com/enterprise/terawave-satellites-looks-to-challenge-spacex/ 
+
+GTMaritime targets fleet cyber visibility gap with GT Identity <br>
+https://thedigitalship.com/news/maritime-satellite-communications/gtmaritime-targets-fleet-cyber-visibility-gap-with-gt-identity/ 
+
+Open Cosmos lobs a couple of LEO satellites into orbit <br>
+https://www.telecoms.com/satellite/open-cosmos-lobs-a-couple-of-leo-satellites-into-orbit 
+
+Albany International’s CMMC Win Highlights Defense Cybersecurity And Contract Potential <br>
+https://simplywall.st/stocks/us/capital-goods/nyse-ain/albany-international/news/albany-internationals-cmmc-win-highlights-defense-cybersecur 
+
+The Truth About Thales S.A.: Is This Defense Giant the Sleeper Stock Everyone’s Sleeping On? <br>
+https://www.ad-hoc-news.de/boerse/news/ueberblick/the-truth-about-thales-s-a-is-this-defense-giant-the-sleeper-stock/68513306 
+
+
+# Jan 22, 2026 
+RTX vs. General Dynamics: Which Defense Stock Offers More Upside? <br>
+https://www.theglobeandmail.com/investing/markets/stocks/RTX/pressreleases/37176660/rtx-vs-general-dynamics-which-defense-stock-offers-more-upside/ 
+
+Iridium hits satellite-based IoT milestone, brushes aside ‘billionaires and meme stocks’ <br>
+https://www.sdxcentral.com/news/iridium-hits-satellite-based-iot-milestone-brushes-aside-billionaires-and-meme-stocks/
+
+TeraWave space-based network aims for 6 Tbps connectivity worldwide <br>
+https://www.helpnetsecurity.com/2026/01/22/blue-origin-terrawave-space-based-network/ 
+
+Blue Origin plots 6 Tbps satellite network <br> 
+https://www.telecoms.com/satellite/blue-origin-plots-6-tbps-satellite-network 
+
+Bezos heads into B2B comms with TeraWave satellite system <br>
+https://www.telcotitans.com/infrawatch/bezos-heads-into-b2b-comms-with-terawave-satellite-system/10101.article 
+
+IFX seeks to grow in Argentina with satellite and cloud connectivity <br>
+https://www.bnamericas.com/en/features/ifx-seeks-to-grow-in-argentina-with-satellite-and-cloud-connectivity 
+
+Jeff Bezos’ Blue Origin launches satellite internet service to rival SpaceX, Amazon <br>
+https://oodaloop.com/briefs/technology/jeff-bezos-blue-origin-launches-satellite-internet-service-to-rival-spacex-amazon/ 
+
+The Digital Networks Act – Reform of the EU’s telecoms regime <br>
+https://www.twobirds.com/en/insights/2026/the-digital-networks-act-%E2%80%93-reform-of-the-eu%E2%80%99s-telecoms-regime 
+
+AXA platform partners with ICEYE for satellite-based extreme weather tracking <br>
+https://www.lifeinsuranceinternational.com/news/axa-platform-partners-iceye/
+
+
+# Jan 21, 2026 
+Digitization Is Reshaping Satellite Ground Systems, But Only If We Standardize It <br>
+https://comtech.com/blog-post/2026/01/21/digitization-is-reshaping-satellite-ground-systems-but-only-if-we-standardize-it/ 
+
+Space-Based Supply-Chain Vulnerabilities Create Emerging Operational Risks <br>
+https://www.crisis24.com/articles/space-based-supply-chain-vulnerabilities-create-emerging-operational-risks 
+
+WISeKey Unveils Space-Based Quantum-Resistant Crypto Transactions at Davos 202 <br>
+https://quantumzeitgeist.com/wisekey-cryptocurrency-quantum-cryptography-crypto/ 
+
+Nigeria deploys space technology to fight illegal mining and financial crime <br>
+https://www.ecofinagency.com/news-digital/2101-52132-nigeria-deploys-space-technology-to-fight-illegal-mining-and-financial-crime 
+
+Best satellite communicators in 2026 <br>
+https://cybernews.com/reviews/best-satellite-communicators/ 
+
+Vietnam's top telco Viettel, Canada's Telesat seek satellite cooperation to boost 5G connectivity <br>
+https://theinvestor.vn/vietnams-top-telco-viettel-canadas-telesat-seek-satellite-cooperation-to-boost-5g-connectivity-d18182.html 
+
+India’s Next Big Concern in the AI Era: Cybersecurity for Budget 2026 <br>
+https://www.eletimes.ai/indias-next-big-concern-in-the-ai-era-cybersecurity-for-budget-2026 
+
+
+# Jan 20, 2026 
+10 Defining Moments in Cybersecurity and Space in 2025 <br>
+https://interactive.satellitetoday.com/via/january-february-2026/10-defining-moments-in-space-and-cybersecurity-in-2025 
+
+Did Iran Just Use Russia’s “Kalinka” Jamming System on Starlink? <br>
+https://nationalinterest.org/blog/buzz/did-iran-just-use-russias-kalinka-jamming-system-starlink-bw-012026 
+
+STC Bahrain partners with CFI for secure ICT solutions <br>
+https://satelliteprome.com/news/stc-bahrain-partners-with-cfi-for-secure-ict-solutions/ 
+
+Aviation Cyber Security Market Is Going to Boom |• Northrop Grumman • Boeing <br>
+https://www.openpr.com/news/4355405/aviation-cyber-security-market-is-going-to-boom-northrop 
+
+VIEWPOINT: Charting the digital future - Asian Aviation <br>
+https://asianaviation.com/viewpoint-charting-the-digital-future/ 
+
+Trends in Growth, Segment Analysis, and Competitive Strategies Influencing the Military Cybersecurity Market <br>
+https://www.openpr.com/news/4354905/trends-in-growth-segment-analysis-and-competitive-strategies 
+
+Lobbying Update: $2,890,000 of BOEING COMPANY lobbying was just disclosed <br>
+https://www.quiverquant.com/news/Lobbying+Update%3A+%242%2C890%2C000+of+BOEING+COMPANY+lobbying+was+just+disclosed 
+
+
+# Jan 19, 2026 
+The Sky is Full of Secrets: Glaring Vulnerabilities Discovered in Satellite Communications <br> 
+https://www.newswise.com/articles/the-sky-is-full-of-secrets-glaring-vulnerabilities-discovered-in-satellite-communications 
+
+"It's all about the damn spoofing." Cybersecurity researcher publishes investigation into the causes of the internet blackout in Iran <br>
+https://dev.ua/en/news/starlink-iran-1768803859 
+
+Algeria announces satellite launch; Senegal announces launch plans <br>
+https://developingtelecoms.com/telecom-technology/satellite-communications-networks/19632-algeria-announces-satellite-launch-senegal-announces-launch-plans.html 
+
+Emerging Growth Patterns Driving Expansion in the Broadband Satellite Services Market <br>
+https://www.openpr.com/news/4353682/emerging-growth-patterns-driving-expansion-in-the-broadband 
+
+In-Depth Examination of Segments, Industry Trends, and Leading Competitors in the Aviation and Defense Cyber Security Market <br>
+https://www.openpr.com/news/4353780/in-depth-examination-of-segments-industry-trends-and-leading 
+
+NASA Tests Blockchain to Strengthen Aviation Cybersecurity <br> 
+https://www.cointrust.com/market-news/nasa-tests-blockchain-to-strengthen-aviation-cybersecurity 
+
+Elexo is embarking on AirCyber certification to strengthen its cybersecurity <br>
+https://www.webdisclosure.com/article/logic-instrument-epa-allog-elexo-is-embarking-on-aircyber-certification-to-strengthen-its-cybersecurity-dkQSjaKw18i 
+
+Logic Instrument Commits Its Subsidiary Elexo to AirCyber Cybersecurity Certification <br>
+https://www.ideal-investisseur.fr/en/stock-news/logic-instrument-commits-its-subsidiary-elexo-to-aircyber-cybersecurity-certification/12238.html 
+
+
+# Jan 18, 2026 
+The Truth About Thales S.A.: Why This Low-Key Defense Giant Is Suddenly on Everyone’s Radar <br>
+https://www.ad-hoc-news.de/boerse/news/ueberblick/the-truth-about-thales-s-a-why-this-low-key-defense-giant-is-suddenly-on/68497413 
+
+Cybersecurity Market Size Valued at USD 191.7 Billion in 2024, Projected to ... - Industry Today <br>
+https://industrytoday.co.uk/aerospace/cybersecurity-market-size-valued-at-usd-1917-billion-in-2024-projected-to-reach-usd-500-billion-by-2035-at-a-cagr-of-91-forecast-2025-2035
+
+
+# Jan 17, 2026 
+Elon Musk’s Starlink Faces a Stern Test Amid Iran’s Crackdown <br>
+https://the420.in/starlink-iran-protests-internet-blackout-cyber-attacks-2026/ 
+
+Axiom Aviation Offers the Essentials on New Risks from Connected Aircraft Systems and How Operators Can Stay Protected <br>
+https://www.manilatimes.net/2026/01/16/tmt-newswire/globenewswire/axiom-aviation-offers-the-essentials-on-new-risks-from-connected-aircraft-systems-and-how-operators-can-stay-protected/2260087 
+
+State government to set up AP FIRST in Tirupati <br>
+https://www.newindianexpress.com/states/andhra-pradesh/2026/Jan/17/state-government-to-set-up-ap-first-in-tirupati 
+
+Actionable Security Lowers the Barrier for WordPress Security with WordPress Risk Spotlight <br>
+https://www.openpr.com/news/4351486/actionable-security-lowers-the-barrier-for-wordpress-security 
+
+
+# Jan 16, 2026 
+Senators Introduce Legislation to Streamline Satellite Licensing <br> 
+https://www.satellitetoday.com/government-military/2026/01/16/senators-introduce-legislation-to-streamline-satellite-licensing/ 
+
+Convergence Comes of Age: 2026 Shifts Satellite Promise into Commercial Reality <br>
+https://www.satellitetoday.com/opinion/2026/01/16/convergence-comes-of-age-2026-shifts-satellite-promise-into-commercial-reality/ 
+
+Air Products sets cyber bar for ship systems <br>
+https://thedigitalship.com/news/maritime-satellite-communications/air-products-sets-cyber-bar-for-ship-systems/ 
+
+ServiceNow nears deal to buy cybersecurity startup Armis for up to $7 billion, Bloomberg News reports <br> 
+https://www.msn.com/en-ph/technology/tech-companies/servicenow-nears-deal-to-buy-cybersecurity-startup-armis-for-up-to-7-billion-bloomberg-news-reports/ar-AA1SklSO?ocid=TobArticle&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1 
+
+Lynk Global Tests D2D in Philippines With Smart Communications <br>
+https://www.satellitetoday.com/connectivity/2026/01/15/lynk-global-tests-d2d-in-philippines-with-smart-communications/ 
+
+CAA CIO Matt Taylor Discusses Supply Chain Security and In-House Tech Delivery <br>
+https://www.eplaneai.com/news/caa-cio-matt-taylor-discusses-supply-chain-security-and-in-house-tech-delivery 
+
+The Aerospace and Defense Market is projected to grow USD 1185.07 billion by 2030, compound annual growth rate of 7.1% <br>
+https://tech.einnews.com/pr_news/883795788/the-aerospace-and-defense-market-is-projected-to-grow-usd-1185-07-billion-by-2030-compound-annual-growth-rate-of-7-1 
+
+The Truth About Thales S.A.: Is This Defense Giant the Sleeper Stock Everyone’s Sleeping On? <br>
+https://www.ad-hoc-news.de/boerse/news/ueberblick/the-truth-about-thales-s-a-is-this-defense-giant-the-sleeper-stock/68492218 
+
+
+# Jan 15, 2026 
+SkyFi Raises $13M in Series A Round to Expand Satellite Imagery Access <br> 
+https://www.satellitetoday.com/finance/2026/01/15/skyfi-raises-13m-in-series-a-round-to-expand-satellite-imagery-access/ 
+
+Space Force Awards Slingshot Aerospace $27M to Integrate AI Agent into Scenario Training  <br>
+https://www.satellitetoday.com/government-military/2026/01/15/space-force-awards-slingshot-aerospace-27m-to-integrate-ai-agent-into-scenario-training/ 
+
+Commercial aerospace in 2026 – from self-healing parts to MRO in space <br>
+https://www.aviationbusinessnews.com/in-depth/commercial-aerospace-2026-from-self-healing-parts-and-to-mro-in-space/ 
+
+Commercial Aerospace in 2026: Advances from Self-Healing Parts to Space-Based MRO <br>
+https://www.eplaneai.com/news/commercial-aerospace-in-2026-advances-from-self-healing-parts-to-space-based-mro 
+
+
+# Jan 14, 2026 
+Quantum-Safe Hardware: Why the Cybersecurity Deadline Is Closer Than the Quantum Breakthrough <br>
+https://www.eletimes.ai/quantum-safe-hardware-why-the-cybersecurity-deadline-is-closer-than-the-quantum-breakthrough 
+
+Artificial Intelligence in Security Market Reaching at a CAGR of 11.46% During 2025 - 2035 <br>
+https://www.openpr.com/news/4348146/artificial-intelligence-in-security-market-reaching-at-a-cagr
+
+
+# Jan 13, 2026 
+WISeKey, together with its Subsidiaries, WISeSat and SEALSQ, to Partner with Kaynes Technology's Satellite Subsidiary KSTPL, to Manufacture Post-Quantum Secure WISeSats Satellites in India and Establish India as a Strategic Launch Hub <br>
+https://investingnews.com/wisekey-together-with-its-subsidiaries-wisesat-and-sealsq-to-partner-with-kaynes-technology-s-satellite-subsidiary-kstpl-to-manufacture-post-quantum-secure-wisesats-satellites-in-india-and-establish-i/ 
+
+Baykar expands Piaggio Aerospace operations, boosts P180 Avanti production <br>
+https://defensehere.com/en/baykar-expands-piaggio-aerospace-operations-boosts-p180-avanti-production/ 
+
+IPN Strengthens Cybersecurity Before the 2026 World Cup <br>
+https://mexicobusiness.news/cybersecurity/news/ipn-strengthens-cybersecurity-2026-world-cup 
+
+ParaZero Technologies (NASDAQ: PRZO) Highlights 2025 Milestones Advancing DropAir Precision Airdrop System <br>
+https://www.digitaljournal.com/pr/news/investorbrandnetwork/parazero-technologies-nasdaq-przo-highlights-1829747848.html#google_vignette 
+
+Former Intelsat CEO David Wajsgras Joins Cyber Firm Everfox as CEO  <br>
+https://www.satellitetoday.com/people/2026/01/14/former-intelsat-ceo-david-wajsgras-joins-cyber-firm-everfox-as-ceo/ 
+
+Musk’s Starlink offering free satellite internet service in Iran, activists say <br>
+https://thehill.com/policy/technology/5689527-spacex-starlink-free-iran/ 
+
+Airbus Plans Space Radio Access Network Demonstrator With Tech Partners <br>
+https://www.satellitetoday.com/technology/2026/01/14/airbus-plans-space-radio-access-network-demonstrator-with-tech-partners/  
+
+
+# Jan 12, 2026 
+WISeKey, together with its Subsidiaries, WISeSat and SEALSQ, to Partner with Kaynes Technology’s Satellite Subsidiary KSTPL, to Manufacture Post-Quantum Secure WISeSats Satellites in India and <br>
+https://markets.businessinsider.com/news/stocks/wisekey-together-with-its-subsidiaries-wisesat-and-sealsq-to-partner-with-kaynes-technology-s-satellite-subsidiary-kstpl-to-manufacture-post-quantum-secure-wisesats-satellites-in-india-and-1035701574 
+
+Kepler launches first optical relay satellites <br>
+https://smartmaritimenetwork.com/2026/01/12/kepler-launches-first-optical-relay-satellites/ 
+
+Satellite Ground Station Market Size and Outlook to 2032 From US$ 65.6 Billion to US$ 178.9 Billion <br>
+https://www.taiwannews.com.tw/news/6280738 
+
+As SpaceX Works Toward 50K Starlink Satellites, China Eyes Deploying 200K <br>
+https://www.pcmag.com/news/as-spacex-works-toward-50k-starlink-satellites-china-eyes-deploying-200k 
+
+As SpaceX Works Toward 50K Starlink Satellites, China Eyes Deploying 200K <br>
+https://www.pcmag.com/news/as-spacex-works-toward-50k-starlink-satellites-china-eyes-deploying-200k 
+
+Thales S.A.: How a Quiet European Giant Became a Critical Tech Powerhouse <br>
+https://www.ad-hoc-news.de/boerse/news/ueberblick/thales-s-a-how-a-quiet-european-giant-became-a-critical-tech-powerhouse/68479577#google_vignette
+
+University of Texas System signs new Space Act agreement with NASA <br>
+https://www.statesman.com/business/technology/article/ut-signs-new-agreement-nasa-21286675.php 
+
+
+# Jan 11, 2026 
+Malaysia: Selangor Aerospace Soars with Advanced Manufacturing <br>
+https://opengovasia.com/malaysia-selangor-aerospace-soars-with-advanced-manufacturing/?c=us 
+
+
+# Jan 10, 2026
+FCC approves SpaceX plan to deploy an additional 7,500 Starlink satellites <br>
+https://m.economictimes.com/tech/technology/fcc-approves-spacex-plan-to-deploy-an-additional-7500-starlink-satellites/amp_articleshow/126446483.cms
+
+
+# Jan 9, 2026
+Satellite Co. Pays $175K To End FCC's Team Telecom Case <br>
+https://www.law360.com/articles/2428057/satellite-co-pays-175k-to-end-fcc-s-team-telecom-case 
+
+Leonardo, Italy's leading technology voice in the aerospace and defence sector <br>
+https://www.atalayar.com/en/articulo/new-technologies-innovation/leonardo-italys-leading-technology-voice-in-the-aerospace-and-defence-sector/20260109190000222200.html 
+
+Medical technologies in defence and aerospace: Key themes and emerging questions in regulation <br>
+https://cms-lawnow.com/en/ealerts/2026/01/medical-technologies-in-defence-and-aerospace-key-themes-and-emerging-questions-in-regulation 
+
+FCC Updates 'Covered List' To Remove Some Drones <br>
+https://www.law360.com/cybersecurity-privacy/articles/2427707/fcc-updates-covered-list-to-remove-some-drones?about=cybersecurity-privacy 
+
+ETFs to Consider Amid Geopolitical Woes and Higher US Military Budget <br>
+https://www.theglobeandmail.com/investing/markets/stocks/NOC/pressreleases/36971836/etfs-to-consider-amid-geopolitical-woes-and-higher-us-military-budget/ 
+
+ParaZero Technologies (NASDAQ: PRZO) Demonstrates 100% Interception Success of DefendAir System Against Advanced Hostile Drones <br>
+https://www.theglobeandmail.com/investing/markets/stocks/PRZO-Q/pressreleases/36951667/parazero-technologies-nasdaq-przo-demonstrates-100-interception-success-of-defendair-system-against-advanced-hostile-drones/ 
+
+ABQ launches ambitious plan to attract global businesses to Mesa del Sol <br>
+https://citydesk.org/2026/01/08/abq-launches-ambitious-plan-to-attract-global-businesses-to-mesa-del-sol/ 
+
+Artificial Intelligence (AI) in Security Market is expected to reach USD 54.2 billion by 2031 | Major Companies - Palo Alto Networks Inc., Trellix, Darktrace, Cyclance Inc. <br>
+https://www.openpr.com/news/4341702/artificial-intelligence-ai-in-security-market-is-expected 
+
+Proactive Security Market Trends 2023-2032 | Future Growth Insights <br>
+https://www.openpr.com/news/4342514/proactive-security-market-trends-2023-2032-future-growth 
+
+Operational Technology Security Market Poised for 19.5% CAGR Through 2033 Amid Rising Industrial Cyber Risks | Top Companies are Siemens, Palo Alto Networks, Inc., Zscaler, Inc <br>
+https://www.openpr.com/news/4342138/operational-technology-security-market-poised-for-19-5-cagr 
+
+
+# Jan 8, 2026
+BlackSky Satellite SPAC Suit Settles In Del. For $7.5M <br>
+https://www.law360.com/articles/2427679/blacksky-satellite-spac-suit-settles-in-del-for-7-5m 
+
+ISO 9001 in 2026: What’s Changing—and How AS9100 (IA9100), IATF 16949, NIST & CMMC Fit Together <br>
+https://www.qualitymag.com/articles/99324-iso-9001-in-2026-whats-changingand-how-as9100-ia9100-iatf-16949-nist-and-cmmc-fit-together 
+
+Cybersecurity Shifts from IT Risk to Systemic Exposure <br>
+https://mexicobusiness.news/cybersecurity/news/cybersecurity-shifts-it-risk-systemic-exposure 
+
+”The majority of IT professionals show openness to Cyber Immunity” <br>
+https://www.itnewsafrica.com/2026/01/the-majority-of-it-professionals-show-openness-to-cyber-immunity/ 
+
+Greater Oklahoma City Chamber Unveils 2026 Business and Economic Development Legislative Agenda <br>
+https://www.velocityokc.com/blog/policy/greater-oklahoma-city-chamber-unveils-2026-business-and-economic-development-legislative-agenda/?back=super_blog 
+
+The Cleared Recruiting Playoffs Are Here: Which Defense Contractors Are Winning the Talent War <br>
+https://news.clearancejobs.com/2026/01/08/the-cleared-recruiting-playoffs-are-here-which-defense-contractors-are-winning-the-talent-war/
+
+Gryphon Investors Backs Growth Recap of Cybersecurity Firm Fortreum <br>
+https://www.themiddlemarket.com/latest-news/gryphon-investors-backs-growth-recap-of-cybersecurity-firm-fortreum 
+
+S&P 500 Pulls Back From Record Peak as Defense Shares Surge <br>
+https://www.tradealgo.com/news/s-p-500-pulls-back-from-record-peak-as-defense-shares-surge 
+
+
+# Jan 7, 2026
+AI for Rebuilding the Military: Inside U.S. Global's WAR ETF Strategy | The WealthAdvisor <br>
+https://www.thewealthadvisor.com/article/ai-rebuilding-military-inside-us-globals-war-etf-strategy 
+	
+AI in Cybersecurity Market to Hit $154.8 Bn by 2032 | CAGR 23.6% Growth Outlook <br>
+https://www.openpr.com/news/4338765/ai-in-cybersecurity-market-to-hit-154-8-bn-by-2032-cagr-23-6 
+
+Test equipment services firm Electro Rent achieves CMMC 2.0 Level 2 certification, supporting defense cybersecurity <br>
+https://electronics360.globalspec.com/article/23162/test-equipment-services-firm-electro-rent-achieves-cmmc-2-0-level-2-certification-supporting-defense-cybersecurity
+
+Samsung security chip powered by Thales wins CES 2026 Cybersecurity Award <br>
+https://defensehere.com/en/samsung-security-chip-powered-by-thales-wins-ces-2026-cybersecurity-award/ 
+
+
+
+
+
+>>> Restructuring Organization >>>
 
 MAG Aerospace Data Breach Claims Investigated by Lynch Carpenter
 https://www.wric.com/business/press-releases/globenewswire/9600264/mag-aerospace-data-breach-claims-investigated-by-lynch-carpenter/ 
@@ -496,95 +819,6 @@ https://spacenews.com/author/hayley-blyth/
 SpaceX Faces More Pushback Over Plans to Launch 15K Cellular Starlink Satellites 
 https://www.pcmag.com/news/spacex-faces-more-pushback-over-plans-to-launch-15k-cellular-starlink-satellites 
 
-# Jan 7, 2026
-AI for Rebuilding the Military: Inside U.S. Global's WAR ETF Strategy | The WealthAdvisor <br>
-https://www.thewealthadvisor.com/article/ai-rebuilding-military-inside-us-globals-war-etf-strategy 
-	
-AI in Cybersecurity Market to Hit $154.8 Bn by 2032 | CAGR 23.6% Growth Outlook <br>
-https://www.openpr.com/news/4338765/ai-in-cybersecurity-market-to-hit-154-8-bn-by-2032-cagr-23-6 
 
-Test equipment services firm Electro Rent achieves CMMC 2.0 Level 2 certification, supporting defense cybersecurity <br>
-https://electronics360.globalspec.com/article/23162/test-equipment-services-firm-electro-rent-achieves-cmmc-2-0-level-2-certification-supporting-defense-cybersecurity
 
-Samsung security chip powered by Thales wins CES 2026 Cybersecurity Award <br>
-https://defensehere.com/en/samsung-security-chip-powered-by-thales-wins-ces-2026-cybersecurity-award/ 
 
-# Jan 8, 2026
-BlackSky Satellite SPAC Suit Settles In Del. For $7.5M <br>
-https://www.law360.com/articles/2427679/blacksky-satellite-spac-suit-settles-in-del-for-7-5m 
-
-ISO 9001 in 2026: What’s Changing—and How AS9100 (IA9100), IATF 16949, NIST & CMMC Fit Together <br>
-https://www.qualitymag.com/articles/99324-iso-9001-in-2026-whats-changingand-how-as9100-ia9100-iatf-16949-nist-and-cmmc-fit-together 
-
-Cybersecurity Shifts from IT Risk to Systemic Exposure <br>
-https://mexicobusiness.news/cybersecurity/news/cybersecurity-shifts-it-risk-systemic-exposure 
-
-”The majority of IT professionals show openness to Cyber Immunity” <br>
-https://www.itnewsafrica.com/2026/01/the-majority-of-it-professionals-show-openness-to-cyber-immunity/ 
-
-Greater Oklahoma City Chamber Unveils 2026 Business and Economic Development Legislative Agenda <br>
-https://www.velocityokc.com/blog/policy/greater-oklahoma-city-chamber-unveils-2026-business-and-economic-development-legislative-agenda/?back=super_blog 
-
-The Cleared Recruiting Playoffs Are Here: Which Defense Contractors Are Winning the Talent War <br>
-https://news.clearancejobs.com/2026/01/08/the-cleared-recruiting-playoffs-are-here-which-defense-contractors-are-winning-the-talent-war/
-
-Gryphon Investors Backs Growth Recap of Cybersecurity Firm Fortreum <br>
-https://www.themiddlemarket.com/latest-news/gryphon-investors-backs-growth-recap-of-cybersecurity-firm-fortreum 
-
-S&P 500 Pulls Back From Record Peak as Defense Shares Surge <br>
-https://www.tradealgo.com/news/s-p-500-pulls-back-from-record-peak-as-defense-shares-surge 
-
-# Jan 9, 2026
-Satellite Co. Pays $175K To End FCC's Team Telecom Case <br>
-https://www.law360.com/articles/2428057/satellite-co-pays-175k-to-end-fcc-s-team-telecom-case 
-
-Leonardo, Italy's leading technology voice in the aerospace and defence sector <br>
-https://www.atalayar.com/en/articulo/new-technologies-innovation/leonardo-italys-leading-technology-voice-in-the-aerospace-and-defence-sector/20260109190000222200.html 
-
-Medical technologies in defence and aerospace: Key themes and emerging questions in regulation <br>
-https://cms-lawnow.com/en/ealerts/2026/01/medical-technologies-in-defence-and-aerospace-key-themes-and-emerging-questions-in-regulation 
-
-FCC Updates 'Covered List' To Remove Some Drones <br>
-https://www.law360.com/cybersecurity-privacy/articles/2427707/fcc-updates-covered-list-to-remove-some-drones?about=cybersecurity-privacy 
-
-ETFs to Consider Amid Geopolitical Woes and Higher US Military Budget <br>
-https://www.theglobeandmail.com/investing/markets/stocks/NOC/pressreleases/36971836/etfs-to-consider-amid-geopolitical-woes-and-higher-us-military-budget/ 
-
-ParaZero Technologies (NASDAQ: PRZO) Demonstrates 100% Interception Success of DefendAir System Against Advanced Hostile Drones <br>
-https://www.theglobeandmail.com/investing/markets/stocks/PRZO-Q/pressreleases/36951667/parazero-technologies-nasdaq-przo-demonstrates-100-interception-success-of-defendair-system-against-advanced-hostile-drones/ 
-
-ABQ launches ambitious plan to attract global businesses to Mesa del Sol <br>
-https://citydesk.org/2026/01/08/abq-launches-ambitious-plan-to-attract-global-businesses-to-mesa-del-sol/ 
-
-Artificial Intelligence (AI) in Security Market is expected to reach USD 54.2 billion by 2031 | Major Companies - Palo Alto Networks Inc., Trellix, Darktrace, Cyclance Inc. <br>
-https://www.openpr.com/news/4341702/artificial-intelligence-ai-in-security-market-is-expected 
-
-Proactive Security Market Trends 2023-2032 | Future Growth Insights <br>
-https://www.openpr.com/news/4342514/proactive-security-market-trends-2023-2032-future-growth 
-
-Operational Technology Security Market Poised for 19.5% CAGR Through 2033 Amid Rising Industrial Cyber Risks | Top Companies are Siemens, Palo Alto Networks, Inc., Zscaler, Inc <br>
-https://www.openpr.com/news/4342138/operational-technology-security-market-poised-for-19-5-cagr 
-
-# Jan 10, 2026
-FCC approves SpaceX plan to deploy an additional 7,500 Starlink satellites <br>
-https://m.economictimes.com/tech/technology/fcc-approves-spacex-plan-to-deploy-an-additional-7500-starlink-satellites/amp_articleshow/126446483.cms
-
-# Jan 11, 2026 
-Malaysia: Selangor Aerospace Soars with Advanced Manufacturing <br>
-https://opengovasia.com/malaysia-selangor-aerospace-soars-with-advanced-manufacturing/?c=us 
-
-# Jan 12, 2026 
-WISeKey, together with its Subsidiaries, WISeSat and SEALSQ, to Partner with Kaynes Technology’s Satellite Subsidiary KSTPL, to Manufacture Post-Quantum Secure WISeSats Satellites in India and <br>
-https://markets.businessinsider.com/news/stocks/wisekey-together-with-its-subsidiaries-wisesat-and-sealsq-to-partner-with-kaynes-technology-s-satellite-subsidiary-kstpl-to-manufacture-post-quantum-secure-wisesats-satellites-in-india-and-1035701574 
-
-Kepler launches first optical relay satellites <br>
-https://smartmaritimenetwork.com/2026/01/12/kepler-launches-first-optical-relay-satellites/ 
-
-Satellite Ground Station Market Size and Outlook to 2032 From US$ 65.6 Billion to US$ 178.9 Billion <br>
-https://www.taiwannews.com.tw/news/6280738 
-
-As SpaceX Works Toward 50K Starlink Satellites, China Eyes Deploying 200K <br>
-https://www.pcmag.com/news/as-spacex-works-toward-50k-starlink-satellites-china-eyes-deploying-200k 
-
-As SpaceX Works Toward 50K Starlink Satellites, China Eyes Deploying 200K <br>
-https://www.pcmag.com/news/as-spacex-works-toward-50k-starlink-satellites-china-eyes-deploying-200k 
